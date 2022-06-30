@@ -29,12 +29,12 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [2 Sum](https://leetcode.com/problems/two-sum/)  | ✅ |  |
-| [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |  |  |
-| [Add 2 Numbers](https://leetcode.com/problems/add-two-numbers/) |  |  |
+| [2 Sum](https://leetcode.com/problems/two-sum/)  | ✅ | Easy | HashMap Approach
+| [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | ❌ | Medium | Set 1st element of row and column to zero if zero is encountered
+| [Add 2 Numbers](https://leetcode.com/problems/add-two-numbers/) | ✅ |Easy  | Take care of carry
 | [Copy linked list with arbitrary pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)  |  |  |
-| [Level Order Tree Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)  |  |  |
-| [Connect all Siblings](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)  |  |  |
+| [Level Order Tree Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)  |✅  |Easy  | BFS using Queue
+| [Connect all Siblings](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)  |✅  | Medium | BFS using Queue , take care of null caase
 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) |  |  |
 | [Find all Palindrome Substrings](https://leetcode.com/problems/palindromic-substrings/)  |  |  |
 | [Find maximum single sell profit](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  |  |  |
@@ -66,8 +66,8 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Finding middle element in a linked list]( https://leetcode.com/problems/middle-of-the-linked-list/)  |  |  |
-| [Root to leaf path sum](https://leetcode.com/problems/path-sum/)  |  |  |
+| [Finding middle element in a linked list]( https://leetcode.com/problems/middle-of-the-linked-list/)  |✅  |Easy  | Slow fast technique
+| [Root to leaf path sum](https://leetcode.com/problems/path-sum/)  |✅  |Easy  |Recursion
 | [Reverse a linked list]( https://leetcode.com/problems/reverse-linked-list/)  |  |  |
 | [Remove every k’th node]( https://practice.geeksforgeeks.org/problems/remove-every-kth-node/1/)  |  |  |
 | [Merge 2 sorted linked list]( https://leetcode.com/problems/merge-two-sorted-lists/)  |  |  |
